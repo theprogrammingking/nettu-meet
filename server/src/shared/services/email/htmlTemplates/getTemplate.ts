@@ -83,13 +83,13 @@ const email_verification_template = `
     </head>
     <body>
         <div id="banner" class="flex-center">
-            <img src="https://nettu-company-assets.s3-eu-west-1.amazonaws.com/NettuMeetingLogo.png" alt="NETTU"/>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUtdXJQAljs6oBBPfxFEiHaiz07xNdUt8e2w&usqp=CAU" alt="jet"/>
         </div>
         <p class="helpertext">Nettu Meet conference solution</p>
         <div class="container">
             <div class="main">
                 <h3 class="welcome-tite">Hi,</h3>
-                <p class="welcome-description">Your email confirmation code for Nettumeet is <b>{{code}}</b>.</p>
+                <p class="welcome-description">Your email confirmation code for jetmeeting is <b>{{code}}</b>.</p>
             </div>
         </div>
     </body>
